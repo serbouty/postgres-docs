@@ -1,14 +1,30 @@
-# PostgreSQL 17.4 Documentation
+# SQL Overview
+
+## Development
+
+- Client: [pgAdmin 4](https://www.pgadmin.org/)
+- Resource: [PostgreSQL Documentation (US)](https://www.postgresql.org/docs/)
 
 ## Roadmap
 
-- [ ] 1. Tutorial
-- [ ] 2. The SQL Language
-- [ ] 3. Server Administration
-- [ ] 4. Client Interfaces
-- [ ] 5. Server Programming
-- [ ] 6. Reference
-- [ ] 7. Internals
+- [x] Preface
+- [ ] Part I. Tutorial
+  - [x] Getting Started
+  - [ ] The SQL Language
+  - [ ] Advanced Features
+- [ ] Part II. The SQL Language
+  - [ ] SQL Syntax
+  - [ ] Data Definition
+  - [ ] Data Manipulation
+  - [ ] Queries
+  - [ ] Data Types
+  - [ ] Functions and Operators
+  - [ ] Type Conversion
+  - [ ] Indexes
+  - [ ] Full Text Search
+  - [ ] Concurrency Control
+  - [ ] Performance Tips
+  - [ ] Parallel Query
 
 ## License
 
