@@ -1,0 +1,12 @@
+# Default
+*                   text=auto
+
+# Sources
+*.sql               text
+
+# Configuration
+.gitattributes      text
+.gitignore          text
+
+# Documentation
+*.md                text diff=markdown
